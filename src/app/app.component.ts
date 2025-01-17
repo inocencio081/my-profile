@@ -9,7 +9,7 @@ import * as bootstrap from 'bootstrap';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'my-profile';
+  title = 'Inocêncio Carlos';
 
   modalImageSrc: string = '';
   modalImageAlt: string = '';
